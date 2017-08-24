@@ -9,7 +9,7 @@
                 return ExtractDigitsRecursive(str.Substring(1));
         }
 
-        public string ExtractDigitsForEach(string str) {
+        public string ExtractDigitsLoop1(string str) {
             string result = String.Empty;
             foreach (char c in str) {
                 if (c >= '0' && c <= '9') result += c;
@@ -17,7 +17,7 @@
             return result;
         }
 
-        public string ExtractDigitsMethod(string str) {
+        public string ExtractDigitsLoop2(string str) {
             string result = String.Empty;
             foreach (char c in str) {
                 if (Char.IsDigit(c)) result += c;

@@ -1,0 +1,7 @@
+D:\Projects\SQL-LINQ\SQL-LINQ\obj\Debug\SQL-LINQ.csprojAssemblyReference.cache
+D:\Projects\SQL-LINQ\SQL-LINQ\obj\Debug\SQL-LINQ.csproj.CoreCompileInputs.cache
+D:\Projects\SQL-LINQ\SQL-LINQ\bin\Debug\SQL-LINQ.exe.config
+D:\Projects\SQL-LINQ\SQL-LINQ\bin\Debug\SQL-LINQ.exe
+D:\Projects\SQL-LINQ\SQL-LINQ\bin\Debug\SQL-LINQ.pdb
+D:\Projects\SQL-LINQ\SQL-LINQ\obj\Debug\SQL-LINQ.exe
+D:\Projects\SQL-LINQ\SQL-LINQ\obj\Debug\SQL-LINQ.pdb

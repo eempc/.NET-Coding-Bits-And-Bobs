@@ -1,0 +1,10 @@
+D:\Projects\JSONtest\JSONtest\bin\Debug\JSONtest.exe.config
+D:\Projects\JSONtest\JSONtest\bin\Debug\JSONtest.exe
+D:\Projects\JSONtest\JSONtest\bin\Debug\JSONtest.pdb
+D:\Projects\JSONtest\JSONtest\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\JSONtest\JSONtest\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\JSONtest\JSONtest\obj\Debug\JSONtest.csprojAssemblyReference.cache
+D:\Projects\JSONtest\JSONtest\obj\Debug\JSONtest.csproj.CoreCompileInputs.cache
+D:\Projects\JSONtest\JSONtest\obj\Debug\JSONtest.csproj.CopyComplete
+D:\Projects\JSONtest\JSONtest\obj\Debug\JSONtest.exe
+D:\Projects\JSONtest\JSONtest\obj\Debug\JSONtest.pdb

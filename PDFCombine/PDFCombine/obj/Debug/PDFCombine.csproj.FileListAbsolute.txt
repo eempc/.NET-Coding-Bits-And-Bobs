@@ -1,0 +1,14 @@
+D:\Projects\PDFCombine\PDFCombine\bin\Debug\PDFCombine.exe.config
+D:\Projects\PDFCombine\PDFCombine\bin\Debug\PDFCombine.exe
+D:\Projects\PDFCombine\PDFCombine\bin\Debug\PDFCombine.pdb
+D:\Projects\PDFCombine\PDFCombine\bin\Debug\PdfSharp.Charting.dll
+D:\Projects\PDFCombine\PDFCombine\bin\Debug\PdfSharp.dll
+D:\Projects\PDFCombine\PDFCombine\bin\Debug\PdfSharp.xml
+D:\Projects\PDFCombine\PDFCombine\bin\Debug\PdfSharp.Charting.xml
+D:\Projects\PDFCombine\PDFCombine\bin\Debug\de\PdfSharp.resources.dll
+D:\Projects\PDFCombine\PDFCombine\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Projects\PDFCombine\PDFCombine\obj\Debug\PDFCombine.csprojAssemblyReference.cache
+D:\Projects\PDFCombine\PDFCombine\obj\Debug\PDFCombine.csproj.CoreCompileInputs.cache
+D:\Projects\PDFCombine\PDFCombine\obj\Debug\PDFCombine.csproj.CopyComplete
+D:\Projects\PDFCombine\PDFCombine\obj\Debug\PDFCombine.exe
+D:\Projects\PDFCombine\PDFCombine\obj\Debug\PDFCombine.pdb

@@ -1,0 +1,10 @@
+D:\Projects\CMCTest\CMCTest\bin\Debug\CMCTest.exe.config
+D:\Projects\CMCTest\CMCTest\bin\Debug\CMCTest.exe
+D:\Projects\CMCTest\CMCTest\bin\Debug\CMCTest.pdb
+D:\Projects\CMCTest\CMCTest\obj\Debug\CMCTest.csprojAssemblyReference.cache
+D:\Projects\CMCTest\CMCTest\obj\Debug\CMCTest.csproj.CoreCompileInputs.cache
+D:\Projects\CMCTest\CMCTest\obj\Debug\CMCTest.exe
+D:\Projects\CMCTest\CMCTest\obj\Debug\CMCTest.pdb
+D:\Projects\CMCTest\CMCTest\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\CMCTest\CMCTest\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\CMCTest\CMCTest\obj\Debug\CMCTest.csproj.CopyComplete

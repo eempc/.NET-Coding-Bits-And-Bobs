@@ -1,0 +1,12 @@
+D:\Projects\zxing4\zxing4\zxing4\bin\Debug\netstandard2.0\zxing4.deps.json
+D:\Projects\zxing4\zxing4\zxing4\bin\Debug\netstandard2.0\zxing4.dll
+D:\Projects\zxing4\zxing4\zxing4\obj\Debug\netstandard2.0\zxing4.csprojAssemblyReference.cache
+D:\Projects\zxing4\zxing4\zxing4\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\zxing4\zxing4\zxing4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projects\zxing4\zxing4\zxing4\obj\Debug\netstandard2.0\zxing4.csproj.CoreCompileInputs.cache
+D:\Projects\zxing4\zxing4\zxing4\obj\Debug\netstandard2.0\zxing4.AssemblyInfoInputs.cache
+D:\Projects\zxing4\zxing4\zxing4\obj\Debug\netstandard2.0\zxing4.AssemblyInfo.cs
+D:\Projects\zxing4\zxing4\zxing4\bin\Debug\netstandard2.0\zxing4.pdb
+D:\Projects\zxing4\zxing4\zxing4\obj\Debug\netstandard2.0\zxing4.dll
+D:\Projects\zxing4\zxing4\zxing4\obj\Debug\netstandard2.0\zxing4.pdb
+D:\Projects\zxing4\zxing4\zxing4\obj\Debug\netstandard2.0\XamlC.stamp

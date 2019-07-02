@@ -14,8 +14,8 @@ namespace TimerTest {
         }
 
         public static void SetTimer() {
-            timer = new Timer(2000);
-            timer.Elapsed += OnTimedEvent;
+            timer = new Timer(2000); // Amount of time in milliseconds 
+            timer.Elapsed += OnTimedEvent; // Handler
             timer.AutoReset = true;
             timer.Enabled = true;
         }

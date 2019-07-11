@@ -2,6 +2,6 @@
 
 using (JsonDocument document = JsonDocument.Parse(json, options)) {
   foreach (JsonElement element in document.RootElement.EnumerateArray()) {
-    int temp = element.GetProperty("temp").GetInt32();
+    int temp = element.GetProperty("temp").GetInt32(); //e.g. of getting a value based on key of "temp"
   }  
 }

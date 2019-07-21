@@ -1,0 +1,28 @@
+// How to create a dropdown list from an enum list
+
+<div class="form-group">
+    <label asp-for="MyClass.Property" class="control-label"></label>
+    <select asp-for="MyClass.Property" class="form-control" asp-items="Html.GetEnumSelectList<ListOfEnumItems>()">
+        <option selected="selected" value="">Please select</option>
+    </select>
+    <span asp-validation-for="MyClass.Property" class="text-danger"></span>
+</div>
+
+
+// Straight from a _context in the page model
+
+<div class="form-group">
+    <label asp-for="MyClass.Property" class="control-label"></label>
+    <select asp-for="MyClass.Property" class="form-control" asp-items="Model.MyList">
+        <option selected="selected" value="">Please select</option>
+    </select>
+    <span asp-validation-for="MyClass.Property" class="text-danger"></span>
+</div>
+
+public List<SelectListItem> MyList { get; set; }
+    
+public IActionResult OnGet() {
+    MyList = _context.MyTable.Select(c => new SelectListItem {
+        Value = c.MyProperty.ToString(),
+        Text = c.MyProperty.ToString()
+    }).ToList();

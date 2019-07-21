@@ -22,9 +22,9 @@
 public List<SelectListItem> MyList { get; set; }
     
 public IActionResult OnGet() {
-    MyList = _context.MyTable.Select(c => new SelectListItem {
-        Value = c.MyProperty.ToString(),
-        Text = c.MyProperty.ToString()
+    MyList = _context.MyTable.Select(x => new SelectListItem {
+        Value = x.MyProperty.ToString(),
+        Text = x.MyProperty.ToString()
     }).ToList();
     return Page();
 }

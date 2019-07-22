@@ -1,0 +1,8 @@
+@foreach (var item in Model.Something) {
+  <img src="@Url.Content(item.GetImageUrl())" />
+}
+
+// In the model
+public string GetImageUrl() {
+        return @"example/url/".ToLower();
+}

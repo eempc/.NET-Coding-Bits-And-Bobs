@@ -1,8 +1,37 @@
-@foreach (var item in Model.Something) {
+@foreach (var item in Model.SomeIList) {
   <img src="@Url.Content(item.GetImageUrl())" />
 }
 
 // In the model
 public string GetImageUrl() {
-        return @"~/example/url/".ToLower();
+        return @"~/images/image.png".ToLower();
+}
+
+///////////////////////////////////////////////////////
+
+private readonly IHostingEnvironment _env;
+public string RootPath { get; set; }
+
+public IndexModel(ApplicationDbContext context, IHostingEnvironment env) {
+    _context = context;
+    _env = env;
+}
+
+public async Task OnGetAsync() {
+    RootPath = _env.WebRootPath;
+    Cryptocurrency = await _context.Cryptocurrency.ToListAsync();
+}
+
+@foreach (var item in Model.SomeIList) {
+  <img src="@Url.Content(item.GetImageUrl(Model.RootPath))"
+}
+       
+public string GetImageUrl(string rootPath) {
+    string relativePath = $@"images/{Property}.svg".ToLower();
+    string fullPath = Path.Combine(rootPath, relativePath);
+
+    if (File.Exists(fullPath)) {
+        return @"~/" + relativePath;
+    }
+    return $@"~/images/image.png".ToLower();
 }

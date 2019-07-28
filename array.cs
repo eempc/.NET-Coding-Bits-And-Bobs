@@ -1,5 +1,6 @@
 int[][] jaggedArray = new int[][];
-int[,] multiDimensionalArray = new int[3,4]; // must be rectangle
-
 return jaggedArray[i][j];
+
+
+int[,] multiDimensionalArray = new int[3,4]; // must be rectangle
 return multiDimensionalArray[i, j];

@@ -6,6 +6,10 @@ if (something == null) {
 
 if (something == null) something = whatever;
 
-// Or
+// if null assign whatever
 
 something ??= whatever;
+
+// Slight difference with this ??
+
+something ?? CanDoThisMethod();
